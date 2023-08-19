@@ -72,3 +72,9 @@ button {
   display: flex;
   gap: 16px;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #eeeeee;
+}
